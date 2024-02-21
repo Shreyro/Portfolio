@@ -24,17 +24,18 @@ const imageAltText = "ocean";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an AI & ML student studying at Vellore Institute of Technology, Chennai.";
+  "I'm an AI & ML student studying at Vellore Institute of Technology, Chennai.I'm constantly learning and looking for new challenges. Let's connect and explore how we can use technology to make a positive impact!";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web design -Flask and React",
   "AI Analytics",
   "Machine Learning",
   "Graphic design",
+  "Python, java, C++",
 ];
 
 /**
@@ -43,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation.  I continually look for new and better ways to make tech accessible by all.";
+  "I'm passionate about using technology to solve real-world problems, particularly in the areas of healthcare, sustainability, and social good..";
 
 const About = () => {
   return (
