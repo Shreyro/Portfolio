@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Shreya Roshan",
-  title: "AI & ML Engineer",
+  title: "Building Intelligent Systems: An AI/ML Student's Portfolio",
   email: "shreya.roshan2021@gmail.com",
   gitHub: "https://github.com/Shreyro",
   linkedIn: "https://www.linkedin.com/in/shreya-roshan/",
