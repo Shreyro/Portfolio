@@ -27,8 +27,8 @@ const siteProps = {
   name: "Shreya Roshan",
   title: "Building Intelligent Systems: An AI/ML Student's Portfolio",
   email: "shreya.roshan2021@gmail.com",
-  gitHub: "https://github.com/Shreyro",
-  linkedIn: "https://www.linkedin.com/in/shreya-roshan/",
+  gitHub: "Shreyro",
+  linkedIn: "shreya-roshan",
 };
 
 const primaryColor = "#4E567E";
